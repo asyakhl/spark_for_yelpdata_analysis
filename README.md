@@ -23,9 +23,9 @@ differently than regular reviewers.
 
 ### EMR Cluster and Notebook Configurations
 
-<img src="/assets/emr_configs.png" width="800">
+<img src="/assets/cluster.png" width="800">
 
-<img src="/assets/notebook_configs.png" width="800">
+<img src="/assets/notebook.png" width="800">
 
 ### Yelp datasets on AWS S3
 
